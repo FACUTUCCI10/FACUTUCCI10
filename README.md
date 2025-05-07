@@ -9,12 +9,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50"/>
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL Developer" width="50"/>
-  <img src="https://www.oracle.com/a/ocom/img/oracle-cloud.svg" alt="Oracle Cloud" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50"/>
+
 </p>
 
 ### ☁️ Cloud y Bases de Datos
 - 🚀 Trabajo con **Oracle Cloud** para almacenamiento y gestión de datos.
-- 📌 Desarrollo con **Oracle SQL Developer**, creando y optimizando consultas SQL.
+- 🛠️ Desarrollo con **Oracle SQL Developer** asi tambien con **SQL Server**, creando y optimizando consultas SQL.
+- 🔗 Desarrollo de **APIs RESTful** para mejorar la interoperabilidad entre sistemas.
+- ⚙️ Integración de servicios backend con **.NET y C#**, optimizando endpoints.
+
 
 ### 🌱 Actualmente aprendiendo...
 - Mejores prácticas en **.NET** y desarrollo backend.
@@ -27,9 +31,9 @@
 - Discutir sobre **arquitectura de software** y buenas prácticas.
 
 ### 📫 ¿Cómo contactarme?
-- [LinkedIn](https://www.linkedin.com/in/facundo-tucci/)  
-- [GitHub](https://github.com/facundotucci)  
-- 📧 Correo: tucorreo@example.com  
+- [LinkedIn](https://www.linkedin.com/in/facundo-tucci-/)  
+- [GitHub](https://github.com/FACUTUCCI10)  
+- 📧 Correo:tuccifacundo473@gmail.com 
 
 ### ⚡ Datos curiosos sobre mí
 - Me apasiona optimizar código y hacer que funcione **de forma elegante**.  
