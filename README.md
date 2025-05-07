@@ -1,11 +1,16 @@
-## Hi there 👋
+## Buenas! Soy Facundo Tucci 👋
 
 <!--
-**FACUTUCCI10/FACUTUCCI10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Actualmente trabajo como junior .NET developer en TVsim, mi foco está en crecer mi conocimiento y performar a mi mejor nivel, todos los días.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🛠️ Tecnologías y Herramientas que más uso:
+
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
