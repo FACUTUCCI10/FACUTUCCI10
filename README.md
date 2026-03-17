@@ -6,10 +6,9 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FACUTUCCI10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACUTUCCI10&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=FACUTUCCI10&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACUTUCCI10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 <br>
 ### 🛠️ Tecnologías y Herramientas que más uso
 <p align="left">
