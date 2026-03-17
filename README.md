@@ -1,8 +1,16 @@
 ## 👋 ¡Hola! Soy Facundo Tucci  
 
-⚡ Actualmente trabajo como Junior .NET Developer en TVsim.  
 🚀 Mi enfoque está en crecer profesionalmente y mejorar mi rendimiento todos los días.  
 
+### 📈 Mis stats en GitHub
+<br>
+
+<div align="center">
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api?username=FACUTUCCI10=&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>"/> 
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FACUTUCCI10&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true>"/>
+</div>
+
+<br>
 ### 🛠️ Tecnologías y Herramientas que más uso
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" style="margin-right: 15px;"/>
@@ -11,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" style="margin-right: 15px;"/>
   <img src="https://img.shields.io/badge/-API-02569B?style=flat&logo=swagger&logoColor=white" alt="API REST" style="margin-right: 15px;"/>
 </p>
-
-
 </p>
 
 ### ☁️ Cloud y Bases de Datos
@@ -34,12 +40,10 @@
 
 ### 📫 ¿Cómo contactarme?
 - [LinkedIn](https://www.linkedin.com/in/facundo-tucci-/)  
-- [GitHub](https://github.com/FACUTUCCI10)  
 - 📧 Correo:tuccifacundo473@gmail.com 
 
-### ⚡ Datos curiosos sobre mí
-- Me apasiona optimizar código y hacer que funcione **de forma elegante**.  
-- Uso **Notion** para organizar mis proyectos y aprendizaje 📖.  
-- 🚀 Siempre buscando nuevas certificaciones y retos en **Microsoft Azure**.  
+### 🎥 Mi canal de YouTube
+[![Suscriptores en YouTube](https://img.shields.io/youtube/channel/subscribers/UCi33k7P0uTzG-L46x6D2rMg?label=Suscriptores&style=social)](https://www.youtube.com/@TucciDev1?sub_confirmation=1)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCi33k7P0uTzG-L46x6D2rMg?label=Vistas%20totales&style=social)](https://www.youtube.com/@TucciDev1?sub_confirmation=1)
 
 ---
