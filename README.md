@@ -21,29 +21,15 @@
 </p>
 </p>
 
-### ☁️ Cloud y Bases de Datos
-- 🚀 Trabajo con **Oracle Cloud** para almacenamiento y gestión de datos.
-- 🛠️ Desarrollo con **Oracle SQL Developer** asi tambien con **SQL Server**, creando y optimizando consultas SQL.
-- 🔗 Desarrollo de **APIs RESTful** para mejorar la interoperabilidad entre sistemas.
-- ⚙️ Integración de servicios backend con **.NET y C#**, optimizando endpoints.
-
-
-### 🌱 Actualmente aprendiendo...
-- Mejores prácticas en **.NET** y desarrollo backend.
-- Integración de **Azure** en aplicaciones empresariales.
-- Optimización y debugging de **SQL Queries** para mejorar rendimiento.
-
-### 👯 Buscando colaborar en...
-- Proyectos de desarrollo **full-stack** con .NET y bases de datos.
-- Aplicaciones que mejoren la **experiencia del usuario** y la **eficiencia del código**.
+  Busco colaborar en:
+- Proyectos de desarrollo con **.NET** y bases de datos.
+- Aplicaciones que mejoren la experiencia del usuario y la eficiencia del código para hacerlo mas escalable.
 - Discutir sobre **arquitectura de software** y buenas prácticas.
 
-### 📫 ¿Cómo contactarme?
+📫 ¿Cómo contactarme?
 - [LinkedIn](https://www.linkedin.com/in/facundo-tucci-/)  
 - 📧 Correo:tuccifacundo473@gmail.com 
 
-### 🎥 Mi canal de YouTube
-[![Suscriptores en YouTube](https://img.shields.io/youtube/channel/subscribers/UCi33k7P0uTzG-L46x6D2rMg?label=Suscriptores&style=social)](https://www.youtube.com/@TucciDev1?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCi33k7P0uTzG-L46x6D2rMg?label=Vistas%20totales&style=social)](https://www.youtube.com/@TucciDev1?sub_confirmation=1)
-
+ 🎥 Mi canal de YouTube
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCi33k7P0uTzG-L46x6D2rMg?label=Suscriptores&style=social)](https://www.youtube.com/@TucciDev1)
 ---
