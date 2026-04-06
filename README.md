@@ -6,28 +6,27 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FACUTUCCI10&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FACUTUCCI10&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=facutucci10&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facutucci10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
 
 ### 🛠️ Tecnologías y Herramientas que más uso
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" height="28" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="28" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" height="28" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="28" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" style="vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" height="30" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" height="30" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="30" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="30"/>
 </p>
 
 ---
 
 ### 🤝 Busco colaborar en:
 - Proyectos de desarrollo con **.NET** y bases de datos.
-- Aplicaciones que mejoren la experiencia del usuario y la eficiencia del código para hacerlo más escalable.
+- Aplicaciones que mejoren la experiencia del usuario y la eficiencia del código.
 - Discutir sobre **arquitectura de software** y buenas prácticas.
 
 ### 📫 ¿Cómo contactarme?
