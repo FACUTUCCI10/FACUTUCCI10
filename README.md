@@ -13,17 +13,21 @@
 <br>
 
 ### 🛠️ Tecnologías y Herramientas que más uso
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" height="35" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="35" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="35" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="35" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="35" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=airplay&logoColor=white" alt="Antigravity" height="35" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="35" style="vertical-align: middle;"/>
-</p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="45" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" style="margin-right: 15px;"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" style="margin-right: 15px;"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" style="margin-right: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="45" style="margin-right: 15px;"/>
+  
+  <img src="https://img.icons8.com/ios-filled/50/000000/gravity.png" alt="Antigravity" width="40" style="vertical-align: top;"/>
+</p>
 ---
 
 ### 🤝 Busco colaborar en:
